@@ -101,6 +101,6 @@
 [facebook]: https://facebook.com/kevcordovas
 [youtube]: https://www.youtube.com/channel/UCSg3MFMmppBbMqlLyUy4CBg?view_as=subscriber
 [instagram]: https://instagram.com/kevcordovas
-[linkedin]: https://linkedin.com/in/kevin-cordova-b27a03195
+[linkedin]: https://linkedin.com/in/kevin-cordova
 [movieapp]: https://github.com/kcordovas/MovieFlutterApp
 [webdevplaylist]: https://www.youtube.com/playlist?list=PL0HHACZtnYzM8og2dmWppBEIaX8z7pJf3
