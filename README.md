@@ -53,6 +53,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intro Canal - Desarrollo Android & IOS, Diseño UI, Noticias y otras cosas](https://www.youtube.com/watch?v=yNpZAM7jf64)
+- [My birthdays: reminder & calendar - Video Promotion](https://www.youtube.com/watch?v=x_pOXKloRQ8)
+- [Sleepy alarm app - Video Promotion](https://www.youtube.com/watch?v=ikELehA7fv4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSg3MFMmppBbMqlLyUy4CBg)
@@ -62,6 +65,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Best Alarm clock apps for Android of 2020](https://medium.com/@kevcordovas/3-best-alarm-clock-apps-for-android-of-2020-bab902a49a99?source=rss-5faecc2e44cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@kevcordovas)
