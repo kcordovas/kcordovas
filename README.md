@@ -57,6 +57,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Intro Canal - Desarrollo Android & IOS, Diseño UI, Noticias y otras cosas](https://www.youtube.com/watch?v=yNpZAM7jf64)
+- [My birthdays: reminder & calendar - Video Promotion](https://www.youtube.com/watch?v=x_pOXKloRQ8)
+- [Sleepy alarm app - Video Promotion](https://www.youtube.com/watch?v=ikELehA7fv4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCSg3MFMmppBbMqlLyUy4CBg)
