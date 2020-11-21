@@ -13,10 +13,6 @@
 - 🥅 2021 Goals: Certify me how an Android Developer Associate of Google
 - ⚡ Fun fact: I love to design and play guitar, compose music and read.
 
-<!-- ### Spotify Playing 🎧 -->
-
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
 ### Connect with me:
 
 [<img align="left" alt="kevcordovas.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -90,8 +86,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kcordovas's GitHub Stats" src="https://github-readme-stats.kcordovas.vercel.app/api?username=kcordovas&show_icons=true&hide_border=true" />
-  <!--https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true-->
+  <img align="left" alt="kcordovas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kcordovas&show_icons=true&hide_border=true&theme=blueberry" />
 
 </details>
 
@@ -104,4 +99,4 @@
 [instagram]: https://instagram.com/kevcordovas
 [linkedin]: https://linkedin.com/in/kevin-cordova-b27a03195
 [movieapp]: https://github.com/kcordovas/MovieFlutterApp
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://www.youtube.com/playlist?list=PL0HHACZtnYzM8og2dmWppBEIaX8z7pJf3
