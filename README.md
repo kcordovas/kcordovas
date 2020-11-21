@@ -69,6 +69,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Best Alarm clock apps for Android of 2020](https://medium.com/@kevcordovas/3-best-alarm-clock-apps-for-android-of-2020-bab902a49a99?source=rss-5faecc2e44cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@kevcordovas)
