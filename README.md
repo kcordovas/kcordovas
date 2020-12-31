@@ -3,7 +3,7 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevcordovas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=kevcordovas)
 
-## I'm a Android Developer, Digital Marketing, Musician and a friend.
+## I'm an Android Developer, Digital Marketing, Musician and a friend.
 
 - ⏰ I'had an Alarm Android: [Sleepy Alarm][appone]!
 - 🎂 And other to reminder birthdays: [My Birthdays][apptwo]!
